@@ -1,1 +1,1 @@
-# rsschool-cv
+https://mvkozak-fe.github.io/rsschool-cv/
