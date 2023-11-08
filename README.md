@@ -1,1 +1,1 @@
-[CV](https://mvkozak-fe.github.io/rsschool-cv/cv)
+https://mvkozak-fe.github.io/rsschool-cv/
