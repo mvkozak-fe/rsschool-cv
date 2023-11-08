@@ -7,3 +7,4 @@
 ## Education:
 * BSUIR, Faculty of Infocommunication, Master of technical sciences, 2019
 * BSUIR, Faculty of Telecommunication, Telecommunication engineer, 2017
+## English level: Intermediate
